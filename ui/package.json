@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "@ai-sdk/azure": "^0.0.45",
-    "@assistant-ui/react": "^0.5",
+    "@assistant-ui/react": "^0.5.100",
+    "@assistant-ui/react-ai-sdk": "^0.6.19",
     "@assistant-ui/react-markdown": "^0.2",
+    "ai": "^3.4.33",
     "next": "14.2.11",
     "react": "^18",
     "react-dom": "^18",
